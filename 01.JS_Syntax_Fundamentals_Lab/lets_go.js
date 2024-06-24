@@ -1,0 +1,10 @@
+let a = 5
+let b = 10
+
+
+
+function addNum(a , b) {
+    console.log(a + b)
+}
+addNum(a,b)
+
