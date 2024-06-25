@@ -25,3 +25,15 @@ let bigInt = BigInt('1234567890123456789012345678901234567890');
 console.log(bigInt)
 let bigInt2 = 1234567890123456789012345678901234567890n;
 console.log(bigInt2)
+
+// Cast string to number
+let intNumber = parseInt('10')
+let floatNumber = parseFloat('3.14')
+let parseNumber = Number('100000')
+console.log(intNumber)
+console.log(floatNumber)
+console.log(parseNumber)
+console.log( typeof intNumber)
+
+// NaN aka not a number
+console.log(Number('not a number'))
