@@ -85,3 +85,9 @@ console.log(Boolean(false)) ;// convert any value to boolean, result: false
 console.log(Boolean(null));
 console.log(Boolean(undefined));
 
+// incrementation and decrementation
+let c = 1
+c++; //
+console.log(++c);
+console.log(c);
+
