@@ -42,3 +42,4 @@ function solve (month){
             break;
     }
 }
+solve(11)
